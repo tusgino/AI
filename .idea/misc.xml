@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\TUGINO\anaconda3\Scripts\black.exe" />
+    <option name="sdkUUID" value="a7f2bf21-37c4-4240-b122-f337f35ccd69" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (OpenCV)" project-jdk-type="Python SDK" />
+</project>
