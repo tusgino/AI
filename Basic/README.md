@@ -184,7 +184,7 @@ GRAY: Gray (0):(255)
 
 ---
 
-### 3.2 Làm mờ ảnh
+### 3.2 Làm mờ ảnh (phần đọc thêm)
 
 Việc làm mờ hình ảnh thường được sử dụng trong xử lý hình ảnh để giảm tiếng ảnh, giúp loại bỏ nhiễu hoặc khi bạn muốn làm mềm chi tiết của một bức ảnh. OpenCV cung cấp nhiều phương pháp để làm mờ ảnh, dưới đây là một số phương pháp phổ biến:
 
